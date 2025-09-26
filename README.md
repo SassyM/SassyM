@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I’m SassyM
 
-<!--
-**SassyM/SassyM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Robotics & AI Engineer | 🤖 Passionate about **autonomous systems** and **machine learning** <br>
+🎓 Master’s thesis on **Reinforcement Learning for next-generation vehicle dynamics simulation** <br>
+💡 Interests: **Reinforcement Learning, Computer Vision, Control Systems** <br>
+🔧 Tools I enjoy working with: `PyTorch` · `Stable Baselines3` · `CarMaker` · `ROS`  
 
-Here are some ideas to get you started:
+### 🌟 What I do
+🧠 Build and train AI agents for **automotive safety & robotics** <br>
+📷 Currently exploring **visual odometry & SLAM** for intelligent perception <br>
+🛠️ Work on projects that connect **AI research → real-world applications**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌍 Outside code
+📚 Always learning new ML/Robotics techniques <br>
+✍️ Documenting projects & sharing insights <br>
+🏋️‍♀️ Balancing tech life with fitness & personal growth  
+
+---
+
+✨ *Let’s connect, collaborate, and build cool AI + robotics projects together!*  
+
+
+## 🔗 Connect with me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srishtism/)   
